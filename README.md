@@ -1,4 +1,4 @@
-
+![logo](https://github.com/TEJASWINI9209/TEJASWINI9209/blob/main/GitHub%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Tejaswini Annadate</h1>
 <h3 align="center">Passionate Automation tester | Streamlining Quality with Automated Solutions.</h3>
